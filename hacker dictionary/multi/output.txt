@@ -1,0 +1,1187 @@
+Pattern match uses 01 through 26 as symbols
+ie: a  word with the Pattern of "hello" woudld be 0102030304
+2
+0\1534
+2\1534
+4\1534
+6\1534
+8\1534
+10\1534
+12\1534
+14\1534
+16\1534
+18\1534
+20\1534
+22\1534
+24\1534
+26\1534
+28\1534
+30\1534
+32\1534
+34\1534
+36\1534
+38\1534
+40\1534
+42\1534
+44\1534
+46\1534
+48\1534
+50\1534
+52\1534
+54\1534
+56\1534
+58\1534
+60\1534
+62\1534
+64\1534
+66\1534
+68\1534
+70\1534
+72\1534
+74\1534
+76\1534
+78\1534
+80\1534
+82\1534
+84\1534
+86\1534
+88\1534
+90\1534
+92\1534
+94\1534
+96\1534
+98\1534
+100\1534
+102\1534
+104\1534
+106\1534
+108\1534
+110\1534
+112\1534
+114\1534
+116\1534
+118\1534
+120\1534
+122\1534
+124\1534
+126\1534
+128\1534
+130\1534
+132\1534
+134\1534
+136\1534
+138\1534
+140\1534
+142\1534
+144\1534
+146\1534
+148\1534
+150\1534
+152\1534
+154\1534
+156\1534
+158\1534
+160\1534
+162\1534
+164\1534
+166\1534
+168\1534
+170\1534
+172\1534
+174\1534
+176\1534
+178\1534
+180\1534
+182\1534
+184\1534
+186\1534
+188\1534
+190\1534
+192\1534
+194\1534
+196\1534
+198\1534
+200\1534
+202\1534
+204\1534
+206\1534
+208\1534
+210\1534
+212\1534
+214\1534
+216\1534
+218\1534
+220\1534
+222\1534
+224\1534
+226\1534
+228\1534
+230\1534
+232\1534
+234\1534
+236\1534
+238\1534
+240\1534
+242\1534
+244\1534
+246\1534
+248\1534
+250\1534
+252\1534
+254\1534
+256\1534
+258\1534
+260\1534
+262\1534
+264\1534
+266\1534
+268\1534
+270\1534
+272\1534
+274\1534
+276\1534
+278\1534
+280\1534
+282\1534
+284\1534
+286\1534
+288\1534
+290\1534
+292\1534
+294\1534
+296\1534
+298\1534
+300\1534
+302\1534
+304\1534
+306\1534
+308\1534
+310\1534
+312\1534
+314\1534
+316\1534
+318\1534
+320\1534
+322\1534
+324\1534
+326\1534
+328\1534
+330\1534
+332\1534
+334\1534
+336\1534
+338\1534
+340\1534
+342\1534
+344\1534
+346\1534
+348\1534
+350\1534
+352\1534
+354\1534
+356\1534
+358\1534
+360\1534
+362\1534
+364\1534
+366\1534
+368\1534
+370\1534
+372\1534
+374\1534
+376\1534
+378\1534
+380\1534
+382\1534
+384\1534
+386\1534
+388\1534
+390\1534
+392\1534
+394\1534
+396\1534
+398\1534
+400\1534
+402\1534
+404\1534
+406\1534
+408\1534
+410\1534
+412\1534
+414\1534
+416\1534
+418\1534
+420\1534
+422\1534
+424\1534
+426\1534
+428\1534
+430\1534
+432\1534
+434\1534
+436\1534
+438\1534
+440\1534
+442\1534
+444\1534
+446\1534
+448\1534
+450\1534
+452\1534
+454\1534
+456\1534
+458\1534
+460\1534
+462\1534
+464\1534
+466\1534
+468\1534
+470\1534
+472\1534
+474\1534
+476\1534
+478\1534
+480\1534
+482\1534
+484\1534
+486\1534
+488\1534
+490\1534
+492\1534
+494\1534
+496\1534
+498\1534
+500\1534
+502\1534
+504\1534
+506\1534
+508\1534
+510\1534
+512\1534
+514\1534
+516\1534
+518\1534
+520\1534
+522\1534
+524\1534
+526\1534
+528\1534
+530\1534
+532\1534
+534\1534
+536\1534
+538\1534
+540\1534
+542\1534
+544\1534
+546\1534
+548\1534
+550\1534
+552\1534
+554\1534
+556\1534
+558\1534
+560\1534
+562\1534
+564\1534
+566\1534
+568\1534
+570\1534
+572\1534
+574\1534
+576\1534
+578\1534
+580\1534
+582\1534
+584\1534
+586\1534
+588\1534
+590\1534
+592\1534
+594\1534
+596\1534
+598\1534
+600\1534
+602\1534
+604\1534
+606\1534
+608\1534
+610\1534
+612\1534
+614\1534
+616\1534
+618\1534
+620\1534
+622\1534
+624\1534
+626\1534
+628\1534
+630\1534
+632\1534
+634\1534
+636\1534
+638\1534
+640\1534
+642\1534
+644\1534
+646\1534
+648\1534
+650\1534
+652\1534
+654\1534
+656\1534
+658\1534
+660\1534
+662\1534
+664\1534
+666\1534
+668\1534
+670\1534
+672\1534
+674\1534
+676\1534
+678\1534
+680\1534
+682\1534
+684\1534
+686\1534
+688\1534
+690\1534
+692\1534
+694\1534
+696\1534
+698\1534
+700\1534
+702\1534
+704\1534
+706\1534
+708\1534
+710\1534
+712\1534
+714\1534
+716\1534
+718\1534
+720\1534
+722\1534
+724\1534
+726\1534
+728\1534
+730\1534
+732\1534
+734\1534
+736\1534
+738\1534
+740\1534
+742\1534
+744\1534
+746\1534
+748\1534
+750\1534
+752\1534
+754\1534
+756\1534
+758\1534
+760\1534
+762\1534
+764\1534
+766\1534
+768\1534
+770\1534
+772\1534
+774\1534
+776\1534
+778\1534
+780\1534
+782\1534
+784\1534
+786\1534
+788\1534
+790\1534
+792\1534
+794\1534
+796\1534
+798\1534
+800\1534
+802\1534
+804\1534
+806\1534
+808\1534
+810\1534
+812\1534
+814\1534
+816\1534
+818\1534
+820\1534
+822\1534
+824\1534
+826\1534
+828\1534
+830\1534
+832\1534
+834\1534
+836\1534
+838\1534
+840\1534
+842\1534
+844\1534
+846\1534
+848\1534
+850\1534
+852\1534
+854\1534
+856\1534
+858\1534
+860\1534
+862\1534
+864\1534
+866\1534
+868\1534
+870\1534
+872\1534
+874\1534
+876\1534
+878\1534
+880\1534
+882\1534
+884\1534
+886\1534
+888\1534
+890\1534
+892\1534
+894\1534
+896\1534
+898\1534
+900\1534
+902\1534
+904\1534
+906\1534
+908\1534
+910\1534
+912\1534
+914\1534
+916\1534
+918\1534
+920\1534
+922\1534
+924\1534
+926\1534
+928\1534
+930\1534
+932\1534
+934\1534
+936\1534
+938\1534
+940\1534
+942\1534
+944\1534
+946\1534
+948\1534
+950\1534
+952\1534
+954\1534
+956\1534
+958\1534
+960\1534
+962\1534
+964\1534
+966\1534
+968\1534
+970\1534
+972\1534
+974\1534
+976\1534
+978\1534
+980\1534
+982\1534
+984\1534
+986\1534
+988\1534
+990\1534
+992\1534
+994\1534
+996\1534
+998\1534
+1000\1534
+1002\1534
+1004\1534
+1006\1534
+1008\1534
+1010\1534
+1012\1534
+1014\1534
+1016\1534
+1018\1534
+1020\1534
+1022\1534
+1024\1534
+1026\1534
+1028\1534
+1030\1534
+1032\1534
+1034\1534
+1036\1534
+1038\1534
+1040\1534
+1042\1534
+1044\1534
+1046\1534
+1048\1534
+1050\1534
+1052\1534
+1054\1534
+1056\1534
+1058\1534
+1060\1534
+1062\1534
+1064\1534
+1066\1534
+1068\1534
+1070\1534
+1072\1534
+1074\1534
+1076\1534
+1078\1534
+1080\1534
+1082\1534
+1084\1534
+1086\1534
+1088\1534
+1090\1534
+1092\1534
+1094\1534
+1096\1534
+1098\1534
+1100\1534
+1102\1534
+1104\1534
+1106\1534
+1108\1534
+1110\1534
+1112\1534
+1114\1534
+1116\1534
+1118\1534
+1120\1534
+1122\1534
+1124\1534
+1126\1534
+1128\1534
+1130\1534
+1132\1534
+1134\1534
+1136\1534
+1138\1534
+1140\1534
+1142\1534
+1144\1534
+1146\1534
+1148\1534
+1150\1534
+1152\1534
+1154\1534
+1156\1534
+1158\1534
+1160\1534
+1162\1534
+1164\1534
+1166\1534
+1168\1534
+1170\1534
+1172\1534
+1174\1534
+1176\1534
+1178\1534
+1180\1534
+1182\1534
+1184\1534
+1186\1534
+1188\1534
+1190\1534
+1192\1534
+1194\1534
+1196\1534
+1198\1534
+1200\1534
+1202\1534
+1204\1534
+1206\1534
+1208\1534
+1210\1534
+1212\1534
+1214\1534
+1216\1534
+1218\1534
+1220\1534
+1222\1534
+1224\1534
+1226\1534
+1228\1534
+1230\1534
+1232\1534
+1234\1534
+1236\1534
+1238\1534
+1240\1534
+1242\1534
+1244\1534
+1246\1534
+1248\1534
+1250\1534
+1252\1534
+1254\1534
+1256\1534
+1258\1534
+1260\1534
+1262\1534
+1264\1534
+1266\1534
+1268\1534
+1270\1534
+1272\1534
+1274\1534
+1276\1534
+1278\1534
+1280\1534
+1282\1534
+1284\1534
+1286\1534
+1288\1534
+1290\1534
+1292\1534
+1294\1534
+1296\1534
+1298\1534
+1300\1534
+1302\1534
+1304\1534
+1306\1534
+1308\1534
+1310\1534
+1312\1534
+1314\1534
+1316\1534
+1318\1534
+1320\1534
+1322\1534
+1324\1534
+1326\1534
+1328\1534
+1330\1534
+1332\1534
+1334\1534
+1336\1534
+1338\1534
+1340\1534
+1342\1534
+1344\1534
+1346\1534
+1348\1534
+1350\1534
+1352\1534
+1354\1534
+1356\1534
+1358\1534
+1360\1534
+1362\1534
+1364\1534
+1366\1534
+1368\1534
+1370\1534
+1372\1534
+1374\1534
+1376\1534
+1378\1534
+1380\1534
+1382\1534
+1384\1534
+1386\1534
+1388\1534
+1390\1534
+1392\1534
+1394\1534
+1396\1534
+1398\1534
+1400\1534
+1402\1534
+1404\1534
+1406\1534
+1408\1534
+1410\1534
+1412\1534
+1414\1534
+1416\1534
+1418\1534
+1420\1534
+1422\1534
+1424\1534
+1426\1534
+1428\1534
+1430\1534
+1432\1534
+1434\1534
+1436\1534
+1438\1534
+1440\1534
+1442\1534
+1444\1534
+1446\1534
+1448\1534
+1450\1534
+1452\1534
+1454\1534
+1456\1534
+1458\1534
+1460\1534
+1462\1534
+1464\1534
+1466\1534
+1468\1534
+1470\1534
+1472\1534
+1474\1534
+1476\1534
+1478\1534
+1480\1534
+1482\1534
+1484\1534
+1486\1534
+1488\1534
+1490\1534
+1492\1534
+1494\1534
+1496\1534
+1498\1534
+1500\1534
+1502\1534
+1504\1534
+1506\1534
+1508\1534
+1510\1534
+1512\1534
+1514\1534
+1516\1534
+1518\1534
+1520\1534
+1522\1534
+1524\1534
+1526\1534
+1528\1534
+1530\1534
+1532\1534
+belly obese
+benni abele
+benni obese
+berry abele
+berry obese
+betty abele
+betty obese
+bevvy abele
+bevvy obese
+cabby scala
+cabby scapa
+caddy scala
+caddy scapa
+canny scala
+canny scapa
+carry scala
+carry scapa
+catty scala
+catty scapa
+cella scene
+cello scene
+ciggy acini
+cills acini
+cissy acini
+civvy acini
+daffs Adana
+daffy Adana
+daggy Adana
+dalle Adana
+dally Adana
+damme Adana
+debby Adele
+dekko Adele
+derry Adele
+fella yfere
+fells yfere
+fetta yfere
+gelly agene
+gemmy agene
+gesso agene
+haffs chara
+haffs chaya
+haffs Dhaka
+haffs Ghana
+haffs jhala
+haffs khaya
+haffs thana
+hajji chara
+hajji chaya
+hajji Dhaka
+hajji Ghana
+hajji khaya
+hajji Lhasa
+hajji shama
+hajji shaya
+hajji thana
+hallo chara
+hallo chaya
+hallo Dhaka
+hallo Ghana
+hallo khaya
+hallo Lhasa
+hallo shama
+hallo shaya
+hallo thana
+halls chara
+halls chaya
+halls Dhaka
+halls Ghana
+halls khaya
+halls thana
+hammy chara
+hammy Dhaka
+hammy Ghana
+hammy jhala
+hammy Lhasa
+hammy thana
+happy chara
+happy Dhaka
+happy Ghana
+happy jhala
+happy Lhasa
+happy shama
+happy thana
+harry Dhaka
+harry Ghana
+harry jhala
+harry Lhasa
+harry shama
+harry thana
+hello Chere
+hello phene
+hello theme
+hello there
+hello these
+hello where
+hells Chere
+hells phene
+hells theme
+hells there
+hells where
+henna Chere
+henna theme
+henna there
+henna these
+henna where
+henny Chere
+henny theme
+henny there
+henny these
+henny where
+herry phene
+herry theme
+herry these
+hinny chili
+hippo chili
+hippy chili
+hobby choko
+hobby photo
+hobby whoso
+hobby zhomo
+hoggs choko
+hoggs photo
+hoggs zhomo
+hokku photo
+hokku whoso
+hokku zhomo
+holla choko
+holla photo
+holla whoso
+holla zhomo
+holly choko
+holly photo
+holly whoso
+holly zhomo
+homme choko
+homme photo
+homme whoso
+hoppy choko
+hoppy whoso
+hoppy zhomo
+karri Akaba
+katti Akaba
+kells akene
+lammy Clara
+lammy Ilana
+lammy plaza
+lassi Clara
+lassi Ilana
+lassi playa
+lassi plaza
+lasso Clara
+lasso Ilana
+lasso playa
+lasso plaza
+lassu Clara
+lassu Ilana
+lassu playa
+lassu plaza
+latte Clara
+latte Ilana
+latte playa
+latte plaza
+lazzi Clara
+lazzi Ilana
+lazzi playa
+lazzo Clara
+lazzo Ilana
+lazzo playa
+leggy clepe
+leggy cleve
+leggy fleme
+lemma clepe
+lemma cleve
+lemma glebe
+lemma glede
+limma blini
+linns alibi
+lippy alibi
+lippy blini
+luffa Uluru
+luffs Uluru
+lumme Uluru
+lummy Uluru
+luvvy Uluru
+maggs Omaha
+malls Omaha
+marry Omaha
+marry omasa
+massé Omaha
+massy Omaha
+matte Omaha
+matte omasa
+mells amene
+merry amene
+messy amene
+mezzo amene
+middy amici
+miffs amici
+miffy amici
+mille amici
+mills amici
+missy amici
+mitts amici
+mobby smoko
+moggy smoko
+molla smoko
+molly smoko
+moppy smoko
+morra smoko
+motte smoko
+motty smoko
+neddy anele
+netts anele
+netty anele
+peggy Speke
+penna Speke
+penny Speke
+perry Speke
+petty Speke
+rabbi drama
+rabbi grama
+rabbi Praha
+rabbi prana
+raffs brava
+raffs drama
+raffs grama
+raffs Praha
+raffs prana
+raggs brava
+raggs drama
+raggs Praha
+raggs prana
+raggy brava
+raggy drama
+raggy Praha
+raggy prana
+rally brava
+rally drama
+rally grama
+rally Praha
+rally prana
+rammy brava
+rammy Praha
+rammy prana
+rasse brava
+rasse drama
+rasse grama
+rasse Praha
+rasse prana
+ratty brava
+ratty drama
+ratty grama
+ratty Praha
+ratty prana
+recco arede
+recco brede
+recco breme
+recco breve
+recco Crete
+recco grebe
+recco grese
+recco greve
+recco Irene
+recco prese
+recco preve
+reccy arede
+reccy brede
+reccy breme
+reccy breve
+reccy Crete
+reccy grebe
+reccy grese
+reccy greve
+reccy Irene
+reccy prese
+reccy preve
+redds breme
+redds breve
+redds creme
+redds crepe
+redds Crete
+redds crewe
+redds grebe
+redds grece
+redds greve
+redds Irene
+redds preve
+reddy breme
+reddy breve
+reddy creme
+reddy crepe
+reddy Crete
+reddy crewe
+reddy grebe
+reddy grece
+reddy grese
+reddy greve
+reddy Irene
+reddy prese
+reddy preve
+reffo arede
+reffo brede
+reffo breme
+reffo breve
+reffo creme
+reffo crepe
+reffo Crete
+reffo crewe
+reffo grebe
+reffo grece
+reffo grese
+reffo greve
+reffo Irene
+reffo prese
+reffo preve
+reggo arede
+reggo brede
+reggo breme
+reggo breve
+reggo creme
+reggo crepe
+reggo Crete
+reggo crewe
+reggo Irene
+reggo prese
+reggo preve
+repps arede
+repps brede
+repps breme
+repps breve
+repps creme
+repps Crete
+repps crewe
+repps grebe
+repps grece
+repps greve
+repps Irene
+riffs oribi
+riggs oribi
+rille oribi
+rills oribi
+ritts oribi
+rolls Frodo
+rolls iroko
+rolls promo
+rolls proto
+rolls Provo
+saggy Osaka
+salle Osaka
+sally Osaka
+sappy Osaka
+savvy Osaka
+soggy dsobo
+soggy dsomo
+sonny dsobo
+sonny dsomo
+soppy dsobo
+soppy dsomo
+sorra dsobo
+sorra dsomo
+sorry dsobo
+sorry dsomo
+tabby Itala
+taffy Itala
+taggy Itala
+tammy Itala
+tarre Itala
+tarry Itala
+tasse Itala
+tazze Itala
+teddy ctene
+teddy stele
+teddy stere
+teddy Steve
+teffs ctene
+teffs Steve
+teggs ctene
+teggs Steve
+tells ctene
+tells Steve
+telly ctene
+telly stede
+telly stere
+telly Steve
+tenné stede
+tenné stele
+tenné stere
+tenné Steve
+tenno stede
+tenno stele
+tenno stere
+tenno Steve
+tenny stede
+tenny stele
+tenny stere
+tenny Steve
+terra ctene
+terra stede
+terra stele
+terra Steve
+terry ctene
+terry stede
+terry stele
+terry Steve
+waddy bwana
+waffs bwana
+walls bwana
+wally bwana
+watts bwana
+webby swede
+welly swede
+wenny swede
+yaffs nyala
+yapps nyala
+yarrs nyala
+zappy Ozawa
